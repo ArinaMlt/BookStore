@@ -1,3 +1,3 @@
 # BookStore
-<h1>Только верстка</h1>
-<a href="https://arinamlt.github.io/BookStore/" />
+<h2>Только верстка</h2>
+<a name="https://arinamlt.github.io/BookStore/" />
